@@ -1,16 +1,12 @@
-### Hi there 👋
 
-<!--
-**xHavckedx/xHavckedx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ♾️ Interested in DevOps Tech
+- 🧑‍💻 SRE and DevOps culture (gitops as preference)
+<div align="center">
+  <hr/>
+  <h3>Skills</h3>
+  <hr/>
+  <a href="https://xhavckedx.github.io/Portfolio/"><h3>Visit my webpage</h3></a>
+  <hr/>
+</div>
