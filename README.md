@@ -4,6 +4,9 @@
 - ♾️ Interested in DevSecOps | AIOps | NoOps | FinOps Tech
 - 🕵️‍♂️ Pentester eJPTv2 (Purple Team)
 - 🧑‍💻 SRE (gitops as preference)
+
+[https://xhavckedx.github.io/Portfolio/](Visit my Repository)
+
 <div align="center">
   <hr/>
   <h3>Skills</h3>
@@ -13,4 +16,3 @@
   h3>Visit my Repository</h3>
   <hr/>
 </div>
-[https://xhavckedx.github.io/Portfolio/](Visit my Repository)
