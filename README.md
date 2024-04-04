@@ -5,7 +5,7 @@
 - 🕵️‍♂️ Pentester eJPTv2 (Purple Team)
 - 🧑‍💻 SRE (gitops as preference)
 
-[https://github.com/xHavckedx/DevOps](Visit my repo)
+[Visit my repo](https://github.com/xHavckedx/DevOps)
 
 <div align="center">
   <hr/>
@@ -16,3 +16,4 @@
     h3>Visit my Repository</h3>
   <hr/>
 </div>
+[Visit my repo](https://github.com/xHavckedx/DevOps)
