@@ -5,7 +5,7 @@
 - 🕵️‍♂️ Pentester eJPTv2 (Purple Team)
 - 🧑‍💻 SRE (gitops as preference)
 
-[https://xhavckedx.github.io/Portfolio/](Visit my Repository)
+[https://github.com/xHavckedx/DevOps](Visit my repo)
 
 <div align="center">
   <hr/>
