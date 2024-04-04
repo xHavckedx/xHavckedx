@@ -1,8 +1,9 @@
 
 ## Hi there 👋
 
-- ♾️ Interested in DevOps Tech
-- 🧑‍💻 SRE and DevOps culture (gitops as preference)
+- ♾️ Interested in DevSecOps | AIOps | NoOps | FinOps Tech
+- 🕵️‍♂️ Pentester eJPTv2 (Purple Team)
+- 🧑‍💻 SRE (gitops as preference)
 <div align="center">
   <hr/>
   <h3>Skills</h3>
