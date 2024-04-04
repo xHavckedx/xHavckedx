@@ -6,7 +6,7 @@
 - 🧑‍💻 SRE (gitops as preference)
 
 [Visit my repo](https://github.com/xHavckedx/DevOps)
-
+<html>
 <div align="center">
   <hr/>
   <h3>Skills</h3>
@@ -16,4 +16,5 @@
     h3>Visit my Repository</h3>
   <hr/>
 </div>
+</html>
 [Visit my repo](https://github.com/xHavckedx/DevOps)
