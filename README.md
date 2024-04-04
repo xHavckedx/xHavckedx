@@ -12,5 +12,5 @@
   <hr/>
   h3>Visit my Repository</h3>
   <hr/>
-  [https://xhavckedx.github.io/Portfolio/](Visit my Repository)
 </div>
+[https://xhavckedx.github.io/Portfolio/](Visit my Repository)
