@@ -13,7 +13,7 @@
   <hr/>
   <a href="https://xhavckedx.github.io/Portfolio/"><h3>Visit my webpage</h3></a>
   <hr/>
-    h3>Visit my Repository</h3>
+    <h3>Visit my Repository</h3>
   <hr/>
 </div>
 </html>
